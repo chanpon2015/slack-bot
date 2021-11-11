@@ -10,7 +10,6 @@ import (
 	"net/http"
 )
 
-// 9a60ebe973e541dc8cb1ec291d19eb9c
 const (
 	// EndPointPages is Notion
 	EndPointPages     = "https://api.notion.com/v1/pages"
